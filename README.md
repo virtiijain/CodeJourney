@@ -4,12 +4,11 @@
 
 I created **CodeJourney** for my own **interview preparation**, and it has really helped me stay organized and consistent.  
 You can try this too to prepare for your interviews! 
+
 **Try CodeJourney here:** [CodeJourney Live](https://code-journeyy.netlify.app/)
 
-> The expert in anything was once a beginner.
-
 ![CodeJourney](./src/assets/cj.png)
-
+> The expert in anything was once a beginner.
 **Virti Jain**  
 - [GitHub](https://github.com/virtiijain)  
 - [LinkedIn](www.linkedin.com/in/virtijain)
