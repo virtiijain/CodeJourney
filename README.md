@@ -8,7 +8,7 @@ You can try this too to prepare for your interviews!
 
 > The expert in anything was once a beginner.
 
-![CodeJourney](./assets/cj.png)
+![CodeJourney](./src/assets/cj.png)
 
 **Virti Jain**  
 - [GitHub](https://github.com/virtiijain)  
